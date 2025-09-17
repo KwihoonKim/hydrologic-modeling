@@ -1,0 +1,14 @@
+	a	b	c	d
+name	창원	부안	광주	이천
+cn	90	87	89	79
+area	1033.5	850.4	309.1	128.7
+tc	1.39	1.38	0.6	0.43
+site	1	2	3	4
+width1	4	4	1.8	4
+height1	2	2	1.8	2
+sill_elev1	2.6	2.3	27.35	51.348
+width2	5	4	3.0	0
+height2	2	2	2.5	0
+sill_elev2	2.28	2.3	27.8	0
+elevation	1.9	2.3	26.1	51.3
+channel_baseline	2.6	2.9	27	52.7
